@@ -1,0 +1,6 @@
+{
+  "name": "The Timeless Art of Strategic Thinking",
+  "description": "Understand the situation. Make a defensible choice. Shape what comes next. An editorial learning platform, Strategy Lab, reference library, and decision portfolio by Mazhar Mansoor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
